@@ -1,2 +1,2 @@
 # lsp_mode
-This is a Chicken Dishes
+This is a test repository for KiteAB's video.
